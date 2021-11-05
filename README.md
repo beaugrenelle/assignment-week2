@@ -10,4 +10,3 @@ https://github.com/beaugrenelle/assignment-week2.git
 You can find the html final rendering at the following link:
 
 https://beaugrenelle.github.io/assignment-week2/module2-solution/index.html
-
